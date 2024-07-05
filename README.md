@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm lucky solanki</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/04/06/44/06/360_F_406440606_qroAwIwm1eKvqNDKYsZcgKzRCLkYrymY.jpg">
+- 🔭 I’m currently working on [Education website](https://luckysolanki22.github.io/Education/)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckysolanki22&label=Profile%20views&color=0e75b6&style=flat" alt="luckysolanki22" /> </p>
