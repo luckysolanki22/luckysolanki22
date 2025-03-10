@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckysolanki22&label=Profile%20views&color=0e75b6&style=flat" alt="luckysolanki22" /> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://luckysolanki22.github.io/Portfolio/)
+- 🔭 Check out my recently made Shoe Site Card (https://luckysolanki22.github.io/shoe/)
 
 - 🌱 I’m currently learning **React-js,MongoDB**
 
